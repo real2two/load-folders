@@ -1,0 +1,21 @@
+{
+  "name": "load-folders",
+  "main": "src/index.js",
+  "author": "Two",
+  "version": "1.0.0",
+  "description": "An object given back after loading all scripts in a folder and subfolders.",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "example": "node example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real2two/load-folders.git"
+  },
+  "bugs": {
+    "url": "https://github.com/real2two/load-folders/issues"
+  },
+  "homepage": "https://github.com/real2two/load-folders#readme"
+}
